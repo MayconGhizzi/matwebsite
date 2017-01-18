@@ -1,32 +1,6 @@
-<!DOCTYPE html>
-<head>
-    
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    
-    <title>MAT &reg; OFICIAL</title>
-    
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://bootswatch.com/spacelab/bootstrap.min.css" >
-    
-    <link rel="stylesheet" href="/styles/default.css" />
-    
-</head>
+<div class='container'>
 
-<body>
-    
-    <div class="container">
-        
-        <div class="container-fluid">
-                
-            <div class="row header">
-                <img src="/imgs/logo.png" alt="" class="col-md-2">
-            </div>
-            
-        </div>
-        
-        <nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -79,7 +53,5 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
-        
-    </div>
-    
-</body>
+
+</div>

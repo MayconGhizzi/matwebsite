@@ -1,0 +1,60 @@
+[
+    {
+        "name": "phalcon/devtools",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phalcon/phalcon-devtools.git",
+            "reference": "8545d2d22ffcad306a6f5ee0499aff3445232994"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/phalcon/phalcon-devtools/zipball/8545d2d22ffcad306a6f5ee0499aff3445232994",
+            "reference": "8545d2d22ffcad306a6f5ee0499aff3445232994",
+            "shasum": ""
+        },
+        "require": {
+            "ext-phalcon": "^3.0",
+            "php": ">=5.5"
+        },
+        "require-dev": {
+            "kherge/box": "^2.7"
+        },
+        "time": "2016-12-24 22:29:31",
+        "bin": [
+            "phalcon.php"
+        ],
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Phalcon\\": "scripts/Phalcon/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Phalcon Team",
+                "email": "team@phalconphp.com",
+                "homepage": "https://phalconphp.com/en/team"
+            },
+            {
+                "name": "Contributors",
+                "homepage": "https://github.com/phalcon/phalcon-devtools/graphs/contributors"
+            }
+        ],
+        "description": "This tools provide you useful scripts to generate code helping to develop faster and easy applications that use with Phalcon framework.",
+        "homepage": "https://phalconphp.com",
+        "keywords": [
+            "Devtools",
+            "framework",
+            "phalcon",
+            "phar",
+            "webtools"
+        ]
+    }
+]
